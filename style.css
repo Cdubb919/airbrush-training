@@ -190,8 +190,8 @@ h2 {
   text-align: center;
 }
 
-.contact-action{
-    margin-top:35px;
+.contact-action {
+  margin-top: 35px;
 }
 
 .contact-box {
@@ -217,6 +217,13 @@ footer {
 
   nav {
     padding: 15px 5%;
+  }
+
+  .nav-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
   }
 
   section {
